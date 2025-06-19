@@ -28,7 +28,7 @@ def compound_growth_apy(principal, apr_percent, days):
 # =========================
 # UI App Streamlit
 # =========================
-st.set_page_config(page_title="Simulasi Staking LGNS & AXS", layout="centered")
+st.set_page_config(page_title="Simulasi Staking LGNS & AXS by Gaess", layout="centered")
 st.title("📈 Simulasi Profit Staking: LGNS vs AXS")
 
 # Input jumlah modal dalam Rupiah
